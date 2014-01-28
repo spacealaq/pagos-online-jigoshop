@@ -1,0 +1,35 @@
+03:56:52 01/28/14 >  [alert] Error validating firm for confirmation for order #6091. D0F8E324EF0F8539CF904E241848D2ED was provided, expected 8cd0fd49859d3d53d8e9d05c3cb7a47f {Array
+(
+    [order] => 6091
+    [key] => order_52e70fedad1ef
+    [usuario_id] => 82354
+    [estado] => 2
+    [mensaje] => transaccion aprobada
+    [ref_venta] => 1390878088
+    [ref_pol] => 4416012
+    [descripcion] => Purchase #6091 on concienciaaldía
+    [extra1] => 
+    [extra2] => 
+    [estado_pol] => 4
+    [firma] => D0F8E324EF0F8539CF904E241848D2ED
+    [codigo_respuesta_pol] => 1
+    [riesgo] => .00
+    [medio_pago] => 10
+    [tipo_medio_pago] => 2
+    [cuotas] => 12
+    [valor] => 30000.00
+    [valorPesos] => 30000.00
+    [iva] => .00
+    [valorAdicional] => .00
+    [moneda] => COP
+    [idioma] => es
+    [cus] => 20140127
+    [ciclo_pse] => null
+    [banco_pse] => 
+    [pse_referencia1] => 
+    [pse_referencia2] => 
+    [pse_referencia3] => 
+    [codigo_autorizacion] => 140790
+    [fecha_procesamiento] => 2014-01-27
+)
+}
