@@ -1,1 +1,14 @@
-Testing
+<h2>
+	<a name="getting-started" class="anchor" href="#getting-started"><span class="octicon octicon-link"></span></a>Intalacion</h2>
+	<ul>
+		<li>
+			Descargar el archivo zip
+			<li>Intalacion en los pugins de wordpress</a>
+			</li>
+			<li>Configuracion en la opcion de parsela de pagos</a>
+			</li>
+			<li>Activar plugin</li>
+		</ul>
+
+<h2>Fuente</h2>
+<p><a href="https://github.com/jaredmell/Pagos-Online-Gateway-for-JigoShop">jaredmell</a></p>
